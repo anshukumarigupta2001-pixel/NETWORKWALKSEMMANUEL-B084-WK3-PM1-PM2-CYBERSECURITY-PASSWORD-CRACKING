@@ -171,9 +171,8 @@ The laboratory exercise also provided a useful comparison between Module 1, whic
 
 Overall, this practical strengthened my understanding of PDF hash extraction, dictionary attacks, password recovery, and the importance of strong password practices.
 
----
 
-**Project:** Networkwalks – Week 3  
-**Module:** 2 – Password Cracking Using Networkwalks Online Tools  
-**Student:** Manpreet Singh  
-**Batch:** B084
+
+
+
+
