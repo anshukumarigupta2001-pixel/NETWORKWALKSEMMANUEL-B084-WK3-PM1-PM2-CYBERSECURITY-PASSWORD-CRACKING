@@ -20,4 +20,4 @@ and Networkwalks' browser-based Hash Calculator + Password Cracker.
 Performed only on the files provided for this authorized training exercise.
 
 ## Author
-Anshu Kumari Gupta, Networkwalks Cybersecurity Internship, Batch B084
+Anshu Kumari Gupta, Networkwalks Cybersecurity Internship, Batch B084.
